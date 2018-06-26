@@ -1,0 +1,25 @@
+{
+  "name": "taller",
+  "version": "0.0.1",
+  "description": "Sistema para administracion de taller mecanico",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Overflowpy/taller.git"
+  },
+  "keywords": [
+    "taller",
+    "mecanica",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Ricardo Penayo <r_penayo@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Overflowpy/taller/issues"
+  },
+  "homepage": "https://github.com/Overflowpy/taller#readme"
+}
